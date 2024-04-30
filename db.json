@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925
+        },
+        {
+            "id": 2,
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960
+        }
+    ]
+}
